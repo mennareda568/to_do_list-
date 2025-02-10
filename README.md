@@ -1,4 +1,5 @@
-#to_do_list (using laravel framework) 
+                           #to_do_list (using laravel framework) 
+                           
 "For a detailed view of the project, view the screenshots folder"
 
 This has the following features:
@@ -9,10 +10,6 @@ Delete Tasks: Users can remove tasks.
 Technologies Used :bootstrap,mysql,Laravel.
 
 Installation Guide: 
-
-Install Composer In Your PC
-
-Execute the Following Command :
 
 1_composer install
 

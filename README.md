@@ -20,13 +20,13 @@ Execute the Following Command :
 
 3_Upload .env and connect it with database
 
-5_Open PHPMyAdmin (http://localhost/phpmyadmin)
+4_Open PHPMyAdmin (http://localhost/phpmyadmin)
 
   *Create a database with name tasks
   
-6_php artisan migrate 
+5_php artisan migrate 
 
-7_php artisan serve 
+6_php artisan serve 
 
 ==============================
 
